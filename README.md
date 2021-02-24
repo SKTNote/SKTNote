@@ -9,5 +9,5 @@
 };
 ``` 
 
-[![SKTNote's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKTNote)](https://github.com/SKTNote/github-readme-stats)
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=SKTNote&count_private=true&show_icons=true&theme=radical)](https://github.com/SKTNote)
+[![SKTNote's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKTNote&show_icons=true&theme=radical)
