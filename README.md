@@ -5,8 +5,8 @@
 		"노트",
 		"유닛노트"
 	]
-  Transferred from Unit to Note.
+  Transferred from Unit-Note to SKTNote.
 };
 ``` 
 
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=KTNote&count_private=true&show_icons=true&theme=radical)](https://github.com/SKTNote)
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=SKTNote&count_private=true&show_icons=true&theme=radical)](https://github.com/SKTNote)
