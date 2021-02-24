@@ -1,6 +1,6 @@
 ```js
 {
-	id: "Unit.Note", "KTNote"
+	id: "Unit.Note", "SKTNote", "KTNote"
 	aka: [
 		"노트",
 		"유닛노트"
