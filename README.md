@@ -6,6 +6,7 @@
 		"유닛노트"
 	]
   Transferred from Unit-Note to SKTNote.
+  I was a developer of PocketMine-MP.
 };
 ``` 
 
